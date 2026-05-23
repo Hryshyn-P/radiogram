@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["BLTCJ2N9T9.com.pavlohryshyn.fradio"],
+        "components": [
+          { "/": "/station/*" },
+          { "/": "/podcast/*" },
+          { "/": "/episode/*" }
+        ]
+      }
+    ]
+  }
+}
