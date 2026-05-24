@@ -6,7 +6,8 @@
         "components": [
           { "/": "/station/*" },
           { "/": "/podcast/*" },
-          { "/": "/episode/*" }
+          { "/": "/episode/*" },
+          { "/": "/podcast-episode/*" }
         ]
       }
     ]
