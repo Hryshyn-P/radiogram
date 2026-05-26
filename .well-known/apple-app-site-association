@@ -5,11 +5,8 @@
         "appIDs": ["BLTCJ2N9T9.com.pavlohryshyn.fradio"],
         "components": [
           { "/": "/station/*" },
-          { "/": "/s/*" },
           { "/": "/podcast/*" },
-          { "/": "/p/*" },
           { "/": "/episode/*" },
-          { "/": "/e/*" },
           { "/": "/podcast-episode/*" }
         ]
       }
